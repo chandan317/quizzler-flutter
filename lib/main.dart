@@ -8,6 +8,7 @@ class Quizzler extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         backgroundColor: Colors.grey.shade900,
+
         body: SafeArea(
           child: Padding(
             padding: EdgeInsets.symmetric(horizontal: 10.0),
